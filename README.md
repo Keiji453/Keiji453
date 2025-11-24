@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 Probably too lazy to update this right now, but I wanted to add this so I remember about it 😅
+Update 2025-11-24: Still haven't had time for this 😴
+
 <!--
 **Keiji453/Keiji453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
